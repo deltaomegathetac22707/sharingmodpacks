@@ -1,0 +1,10 @@
+{
+    "modpacks": [
+        {
+            "name": "Modpackname",
+            "ver": "1.0",
+            "mc_ver": "1.12.2",
+            "link": "Download Config and Mod Files"
+        }
+    ]
+}
